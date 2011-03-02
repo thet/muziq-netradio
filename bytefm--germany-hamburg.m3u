@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1,Byte.FM Webradio - www.byte.fm
+http://streamingserver05.byte.fm:8000/
+
+#EXTINF:-1,Byte.FM Webradio - www.byte.fm
+http://streamingserver01.byte.fm:8000/
+
+#EXTINF:-1,Byte.FM Webradio - www.byte.fm
+http://streamingserver04.byte.fm:8000/
+
+#EXTINF:-1,Byte.FM Webradio - www.byte.fm
+http://streamingserver02.byte.fm:8000/
+
+#EXTINF:-1,Byte.FM Webradio - www.byte.fm
+http://streamingserver03.byte.fm:8000/
+
