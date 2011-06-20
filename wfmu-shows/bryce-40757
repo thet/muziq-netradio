@@ -1,0 +1,1816 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!--programplaylists Written 10/20/00 by Ken Garson ( http://kenzodb.com ). Copyright (C) 2000-2010 Ken Garson. v4/19/10-->
+<!--Default templates written 2/21/01 by Ken Garson. (C) 2001-10 Ken Garson. v10/10/10-->
+<html>
+<head>
+<base target="_top">
+<link rel="alternate" type="application/rss+xml" title="WFMU Playlists for Bryce's show" href="http://wfmu.org/playlistfeed/BK.xml">
+<link rel="alternate" type="application/rss+xml" title="WFMU MP3 archives for Bryce's show" href="http://wfmu.org/archivefeed/mp3/BK.xml">
+<script type="text/javascript">
+function KDBGetOutOfFrame()
+{
+if (top.KDBInPlaylistFrameset)
+if(document.images)
+top.location.replace('http://wfmu.org/playlists/shows/40757');
+else
+top.location.href = 'http://wfmu.org/playlists/shows/40757';
+} //end function
+KDBGetOutOfFrame();
+</script>
+<script type="text/javascript" src="/libraries/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/libraries/jquery/jquery.cookie.js"></script>
+<script type="text/javascript">
+<!--
+function accuflashlink(s,a,v,c,t,d) { document.write('<a href="/flashplayer.php?version=',v,'&show=',s,'&archive=',a,(c ? '&starttime=' + c : ''),(d ? '&drop=' + d : ''),'" onclick="javascript:window.open(this.href,\'wfmuflashplayerwindow\',\'',(v==1?'width=645,height=135':'width=540,height=164'),',scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no\'); return false;">', (t ? '<img src="/flashplayer/playbuttont.gif" style="vertical-align: middle;" width=30 height=17 border=0>&nbsp;Pop&#8209;up&nbsp;player!' : 'Pop&#8209;up'),'<\/a>');
+}
+//-->
+</script>
+<title>
+Playlist for Bryce - June 17, 2011
+</title>
+<meta name="keywords" content="Andrew Chalk, Andy Hayleck, Bernard Parmegiani, Brother JT, Bruce Ditmas, Daphne Oram, David Rosenboom, Heldon, Jeph Jerman, Mark Sanders, Mirror, Nurse With Wound, Organum, Philip Sanderson, Ron Geesin, Yannick Dauby">
+<style type="text/css">
+BODY, TD, TH, .everything, P {
+color: #311E10;
+font-family: verdana, geneva, arial, sans-serif;
+}
+.showlist {
+font-size: 80%;
+font-family: verdana, geneva, arial, sans-serif;
+}
+BODY {
+background-color: #C4B9AC
+}
+.song {background-color: #CCC1B4}
+A:link {color: #FEFEF6}
+A:visited {color: #FEFEF6}
+A:active {color: #311E10}
+.invis {text-decoration: none}
+.webonly {
+font-style: italic;
+}
+.playlistcommentsform {
+font-size: 90%;
+}
+.topborder {
+border: 2px solid;
+}
+p.content {
+margin: 0;
+padding: 0.5em;
+}
+p.content div {
+font-size: 120%;
+font-weight: bold;
+}
+p.boxed {
+border-top:1px solid silver;
+margin: 0.25em;
+padding: 0.15em 0.5em 0.15em 0.5em;
+}
+span.key { font-weight: bold; }
+span.value { }
+div#playlistcommentstable {
+margin: 0.2em 4em;
+font-size: 90%;
+}
+div#playlistcommentstable_listonly {
+margin: 0.2em 0.2em;
+font-size: 90%;
+}
+div#playlistcommentstable_formonly {
+margin: 0.2em 0.2em;
+font-size: 80%;
+}
+span.rightmost {
+width:15em;
+float:right;
+text-align:right;
+font-size: 90%;
+}
+span.rightmost_live {
+width:5em;
+float:right;
+text-align:right;
+font-size: 90%;
+}
+textarea {
+font-family: sans-serif;
+font-size: 100%;
+}
+</style>
+</head>
+<body>
+<h2>
+Playlist for Bryce - June 17, 2011
+</h2>
+<div class="everything">
+<b>
+Fridays Noon - 3pm
+on
+WFMU 91.1 fm 90.1 fm <A HREF="http://wfmu.org">wfmu.org</a>
+</b>
+<p><font size="-1">
+<b>I never miscue a record. I am punctual, well-prepared, and dislike clutter. Outgoing and helpful, I'm always appropriately dressed. I do not behave erratically and have excellent penmanship. My CD's never skip, and I am in good health. I like all the notes, in any order.</b>
+</font></p>
+<b><font size="-1">
+</font></b>
+<font size="-1"></font>
+<p>
+<font size="-1">
+<b>
+Live Audio Streams:
+<a href="/flash/live/livetest.html" onclick="javascript:window.open(this.href,'wfmuflashplayerwindow','width=448,height=161,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no'); return false;">Flash (beta)</a>&nbsp; |&nbsp; <a href="/wfmu.pls">128k MP3</a>&nbsp; |&nbsp; <a href="/wfmu32.pls">32k MP3</a>&nbsp; |&nbsp; <a href="/wfmu.ram">20k Real</a>&nbsp; |&nbsp; <a href="/wfmu.asx">20k Windows</a>
+<br>
+Visit our <a href="/audiostream.shtml">audio streaming page</a> for help<br>
+</b>
+</font>
+</p>
+</div>
+<p>
+<font size="-1">
+<a href="/playlists/shows/40669">&lt;-- Previous playlist</a> |
+Back to <a href="/playlists/BK2011">
+Bryce playlists</a> |
+</font>
+<font size="-1">|</font>
+<!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript">
+addthis_pub = 'wfmu';
+addthis_logo_background = 'EFEFFF';
+addthis_logo_color = '666699';
+addthis_brand = 'WFMU';
+var addthis_disable_flash = true;
+addthis_options = 'email, twitter, facebook, googlebuzz, digg, delicious, reddit, stumbleupon';
+document.write("<a href=\"#\" onclick=\"return addthis_open(this, '', 'http://wfmu.org/playlists/shows/40757', '[TITLE]')\" onmouseout=\"addthis_close()\"><img src=\"http://wfmu.org/images/share_button.gif\" width=\"125\" height=\"16\" border=\"0\" alt=\"Share\" style=\"vertical-align: middle;\"><\/a>");
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- ADDTHIS BUTTON END -->
+</p>
+<hr size=3>
+<div class="everything">
+<p>
+June 17, 2011
+<br>
+<br>
+Listen to this show:
+<a href="/listen.m3u?show=40757&amp;archive=69898">MP3 - 128K</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'',1,'');
+//-->
+</script>
+|
+<a href="#comments" target="_self">Add or read comments</a>
+<br>
+</p>
+<p><br><br><center><iframe width="425" height="349" src="http://www.youtube.com/embed/XqcvQURZQAM" frameborder="0" allowfullscreen></iframe></center><br><br></p>
+</div>
+<table border="0"> <!--width="100%"-->
+<tr>
+<th align="left" class="song">Artist</th>
+<th align="left" class="song">Track</th>
+<th align="left" class="song">Album</th>
+<th align="left" class="song">Comments</th>
+<th align="left" class="song"><font size="-1">Approx. start time</font></th>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Jeph Jerman</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Tree w/Rain + Wind
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:00:00 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:00:00">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:00:00',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Mirror</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Calmahain
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:05:16 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:05:16">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:05:16',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Yannick Dauby</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">[track B3]
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">La Rivière Penchée</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:11:11 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:11:11">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:11:11',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Andrew Chalk</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">1
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Over the Edges</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:23:21 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:23:21">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:23:21',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Andy Hayleck</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">...Listening to the Sunshine Burn the Grass
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Two Gong/Wire Pieces</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:36:21 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:36:21">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:36:21',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song" colspan=6>
+<a name="6">&nbsp;</a>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Organum</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Voice of the Angel
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Tower of Silence</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:57:27 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:57:27">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:57:27',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Organum</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Incarnate
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Tower of Silence</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+0:59:38 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=0:59:38">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'0:59:38',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Brother JT</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">The Descent
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Descent</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+1:07:03 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=1:07:03">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'1:07:03',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Nurse With Wound</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">I Cannot Feel You As The Dogs Are Laughing And I Am Blind
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Homotopy to Marie</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+1:27:25 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=1:27:25">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'1:27:25',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Nurse With Wound</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Homotopy To Marie
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Homotopy to Marie</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+1:40:51 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=1:40:51">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'1:40:51',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Mark Sanders</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">[track 3]
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Swallow Chase</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+1:54:58 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=1:54:58">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'1:54:58',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song" colspan=6>
+<a name="13">&nbsp;</a>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Philip Sanderson</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Reprint Two
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Reprint</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:02:15 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:02:15">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:02:15',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">David Rosenboom</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">In the Beginning: Etude II [excerpt]
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">played by Don Buchla & Robert Moog</font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:14:01 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:14:01">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:14:01',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Bernard Parmegiani</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">La Roue Ferris
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:19:18 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:19:18">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:19:18',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Daphne Oram</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Four Aspects
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Oramics</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:30:51 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:30:51">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:30:51',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Ron Geesin</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">To Roger Waters Wherever You Are
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:39:08 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:39:08">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:39:08',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Bruce Ditmas</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">L'Unita
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Yellow</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:42:33 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:42:33">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:42:33',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+<tr>
+<td class="song">
+<font size="-1">Heldon</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Elephanta
+</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1">Un Reve sans Consequence Speciale</font>&nbsp;
+</td>
+<td class="song">
+<font size="-1"></font>&nbsp;
+</td>
+<td class="song" align="center">
+<font size="-1">
+2:48:15 (<a href="/listen.m3u?show=40757&amp;archive=69898&amp;starttime=2:48:15">MP3</a> |
+<script type="text/javascript">
+<!--
+accuflashlink('40757','69897',2,'2:48:15',0,'');
+//-->
+</script>
+)
+</font>
+</td>
+</tr>
+</table>
+<div class="everything">
+<font size="-1">
+<br><br><center><iframe width="425" height="349" src="http://www.youtube.com/embed/AJmdrSRdo3w" frameborder="0" allowfullscreen></iframe></center><br><br>
+</font>
+<br>
+</div>
+<a name="comments"> </a>
+<br>
+<div id="playlistcommentstable" class="topborder">
+<h3 align="center" class="playlistcommentsform everything">Listener comments!</h3>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:05pm</span>
+<span class="key">
+northguineahills</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Bryce time!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:06pm</span>
+<span class="key">
+J J</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Is that a storm brewing on the horizon? No. It's Bryce.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:07pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+sounds like amplified termites
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:08pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Sounds like the Knights who say &quot;Neegh!&quot;, riding up the lane.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:10pm</span>
+<span class="key">
+J J</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Loved the wind solo in that last one.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:11pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+i'm twiggin out
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:13pm</span>
+<span class="key">
+βrian</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Is that the same as ramifying?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:14pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+http://bit.ly/lJpNVP
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:14pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Wonder what Jerman's roots are?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:20pm</span>
+<span class="key">
+Green Man</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+http://tinyurl.com/5tqphm2
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:23pm</span>
+<span class="key">
+βrian</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+That photo reminds me of a certain Marty Feldman moment in Young Frankenstein.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:29pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Green Man looks like an old-school Dr. Who villain, but even more cut-rate.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:35pm</span>
+<span class="key">
+15M-Spanish revolution</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Sorry to disturb, -bryce, but some things have to be known:<br />
+<br />
+<br />
+You all just have to see what's going on in Spain, almost everyday since the 15th of may this year and in every city.<br />
+http://link.brightcove.com/services/player/bcpid28066806001<br />
+http://www.youtube.com/watch?v=YcmvzRvsf8g<br />
+http://www.youtube.com/watch?v=iQfk6pn_adg<br />
+http://www.youtube.com/watch?v=yxDdJ0nCk7M<br />
+<br />
+... and so many more. Police violence, polititian corruption facts, bank frauds evidences,... People's in the streets and the official power is backing fascist actions.<br />
+<br />
+'This is Inside Job exposed, lived in real time.'<br />
+<br />
+Get informed and spread the info, please.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:38pm</span>
+<span class="key">
+q</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+i just tuned in -- is this a live andrew chalk set?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:39pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+hey, q, i wish! just a lovely recording....
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:43pm</span>
+<span class="key">
+βrian</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+This is what our dark basement sounded like when I was 3 years old.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 12:46pm</span>
+<span class="key">
+Basement monsters</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+We miss you.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:01pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+did the comments get turned-off?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:02pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Hey, Hubba. What up?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:04pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Hey... I thought I had psoted a comment about cask double ipa at the restorative place... 5 gallons till next Thursday
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:05pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+you did. it looked like spam.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:07pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+oooooh... myself and another persona re form the same regional area, and i was sharing information. sorry.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:08pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+thought someone was using fmu for adspace...<br />
+<br />
+my apologies! :(
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:09pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+No, but like KDVS, i totally understand... code words are best... great show by the way!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:10pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+is andrew chalk on this recording? Who is organum this go round?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:11pm</span>
+<span class="key">
+Mark E Teer</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+The market reach of wfmu is a vast untamed wilderness.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:11pm</span>
+<span class="key">
+J J</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+5 gallons of cask beer doesn't seem like much. Can something like that hold up for a whole week?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:12pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+oh, not sure! doesn't say on the vinyl....
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:12pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+no... not at all. I stopped by this palce yesterday aorund 6pm, west coast, and it was flying outt he door... they serve this particular batch in 10.5 ounce goblets, but ti was potent stuff... gave someon instant goose bumps... just a ploy to drive traffic,a nd epople in traffic, crazy.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:14pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+He was on a recording, just a duo, form aorund 86 or so... my only collection is veil fo tears with michael prime and dinah rowe, i think jim o-rourke is onthere too, on matchless
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:14pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'll be there this afternoon, Hubba. I'll have one of the last swallows, apparently.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:15pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Come on down to Ike's House of Discount Vasectomies! Bring your best bud: 2-For-1 special, this weekend only! We inject only the BEST floor wax polish ingredients into your scrotum! 6969 E. Vas Deferens Defenestration Drive, Newark!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:16pm</span>
+<span class="key">
+Mark E Teer</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Is that a Father's Day discount?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:16pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Every Thursday they will roll out a cask after 5pm... a few weeks old now... hopefully they will have pints if it is a tad less gnarly.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:16pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Spam against sperm!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:17pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+snips and giggles
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:18pm</span>
+<span class="key">
+seang</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+being alive is so weird
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:18pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+hey bryce. happy solstice? I hope you are going to drink a lot of vodka and swing leather boots around like shot puts (finnish solstice tradition).
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:19pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+music for my third head
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:20pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Bryce, this isn't the Brother JT with whom I'm familiar .. ?? Crazy psych rocker?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:23pm</span>
+<span class="key">
+Cecile</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+It is the Original Sins guy.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:24pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+is this the vibrolux stuff?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:24pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+yup, the selfsame! i understand he was in a bit of a dark spot at the time. sure made for some beautiful music, tho....<br />
+<br />
+hey, hubba, just checked mr. jackmans (rather thorough) website....i think it was just him on that one?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:25pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+hey, perrin! i will swing the boots but will be skipping Þorrablót this year<br />
+<br />
+hi, cecile!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:26pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+oh, this was just released as &quot;brother jt&quot;....twisted village put it out, R.I.P.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:27pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+geeze... 15 page pdfs for every format... extensive indeed
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:28pm</span>
+<span class="key">
+Cecile</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+hey, bryce!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:28pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Good point, Mark E. Teer@1:16! Our 2-For-1 Weekend is a great time to bring your dad to Ike's House of Discount Vasectomies! Get him a Father's Day gift he won't soon forget while ensuring you don't have to share that future inheritance w/new siblings! A great investment!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:31pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'll take a case
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:34pm</span>
+<span class="key">
+Mark E Teer</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+@Ike, it's always a selling point to mention that you're not just the president, but also a member.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:37pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Track is working wonders on this webinar!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:37pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Homotopy?<br />
+http://en.wikipedia.org/wiki/Homotopy<br />
+Homotopy!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:37pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I AM!!! That was one of the main attractions for me in opening this business! I wouldn't inject floor polish into anyone else's tubes before I'd tried it on my own first! Of course, the RISUG method is not, um, actually officially approved yet in the U.S., so keep it between us, will ya? That's why I'm using these, ah, unconventional marketing methods.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:38pm</span>
+<span class="key">
+Cecile</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I think you should advertise in movie theaters. Particularly before kid's movies.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:38pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'm not sure why the coffee cup turns into a donut
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:39pm</span>
+<span class="key">
+murph</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+nice and crunchy today. the brother JT rox pretty hard
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:39pm</span>
+<span class="key">
+Cecile</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I myself love kids, but I'm just trying to lend a fello FMUer a hand.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:39pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+this is what a homotopy sounds like. if you're in love.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:40pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+this is perfect music to play bills too.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:40pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+And Ike, always begin your presentation with the phrase, &quot;Do we have any Federal Agents in the house??&quot;
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:40pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+coffee cup and donut are homotopic coz you can continuously deform one into another with any breaking up the solid
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:41pm</span>
+<span class="key">
+Mark E Teer</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+@Ike, you should also do a side business in sperm banks. We don't want Bryce's audience, and your market share, to dwindle away.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:41pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+A ball (sphere) is not homotopic to a donut (torus) because you can't map the hole without tearing the sphere
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:42pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'm really astonished at the Brother JT sound. I heard his newer stuff, and he sounds more like XTC than Stan Kenton.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:42pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+is that useful in the &quot;real&quot; world somehow? I'm not being a schmutz, I just don't see it.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:43pm</span>
+<span class="key">
+Cecile</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Brother JT is an all-around talent. he can scream, he can sing, he does formless pieces as well as great pop songs.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:43pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+geographical information systems... mapping
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:44pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+not as useful as that cymbal, though
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:44pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+i miss the days when he would get super shitfaced and writhe around on the floor, playing his guitar with a shotglass full of whiskey
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:45pm</span>
+<span class="key">
+davo</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+this would seg great into this..... www.soundcloud.com/dju-6/braindub
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:45pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+who, Ike?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:45pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Practical?<br />
+Did you have hairy balls?<br />
+http://en.wikipedia.org/wiki/Hairy_ball_theorem
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:46pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Jesus, I guessed I really missed something with JT. A day late and a dollar short, story of my life.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:46pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+next time I try combing my ball-hair, I'll keep that theory in mind
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:48pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+We used to say in grad school:<br />
+Algebraists do it in groups,<br />
+Topologist do it on rubber sheets
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:48pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+(Speaking of balls, I'm not making that up about the floor polish injections. Wired article:<br />
+http://ho.io/RISUG <br />
+BEWARE: Contains gross video of the procedure.)
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:50pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+applied mathematicians do it rationally
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:50pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+ick, Ike
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:50pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+statisticians do it methodically
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:51pm</span>
+<span class="key">
+bruceleh</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+No, statisticians do it stochastically, ask Bethany
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:52pm</span>
+<span class="key">
+davo</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+engineers divide and multiply
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:53pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Bethany, do statisticians do it stochastically?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:53pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+physicists do it on the back of an envelope
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:55pm</span>
+<span class="key">
+Bethany's out now</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+please leave a message and she'll call you back
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:58pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+number theorists do it in their prime
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 1:59pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'm not good at math, and now I feel inadequate even more so.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:00pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+chemists do it and have bad reactions
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:01pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+oh, oh... do economists, please!?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:04pm</span>
+<span class="key">
+perrin</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+economists do it with one hand and then the other
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:05pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+which one is invisible?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:05pm</span>
+<span class="key">
+nic</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+thereminists do it without touching.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:08pm</span>
+<span class="key">
+Minnesota Jeff</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+&quot;Wow, you're legendary thereminist Martin Guvdveldt! I'd like to shake your hand!&quot;<br />
+<br />
+&quot;I touch nothing.&quot;<br />
+<br />
+&quot;Oh.&quot;
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:13pm</span>
+<span class="key">
+nic</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+let's keep going with churning out bumper sticker ideas. Vote Bryce/David Jackman in '90.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:17pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Vote Sanderson State Assembly<br />
+<br />
+&quot;Doing it without touching since 1980&quot;
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:18pm</span>
+<span class="key">
+Carmichael</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I'm off to the new vegetarian Indian place up the street. See y'all later. Thanks for the music and the Brother JT info, Bryce!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:19pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+take it easy Carmichael
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:19pm</span>
+<span class="key">
+Mike East</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+That sounds good Carm. Not enough cash in my pocket today for Indian...I'm goin' Lucky Burger
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:20pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I went to lunch and found out my wife had taken my wallet when she went to the bar last night.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:21pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+i left ym wallet at wrok yesterday, and had to sneak onto regional transit to get home, and to get to work this morning... i got real sweaty. This track was what my expereince was like
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:22pm</span>
+<span class="key">
+Dead Corporate Eyes</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+indeed, it makes good background music for sneakin and such
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:25pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I just discovered an insidious plot to make middle skill workers out of grade school children, and my head is spinning with terror... will my child be a solar panel machinist?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:25pm</span>
+<span class="key">
+northguineahills</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Parmegiani!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:26pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+grm? box set is a great primer, for me it was.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:27pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+yay :)<br />
+<br />
+oh yeah, that box set is great. and......last year or so ago, there appeared a gggggiagntor parmegiani box, almost everything ever by the man.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:31pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+As much as I like to get vinyl, getting collections like that grm, or say like the lafms box, are totally worth the investment...
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:31pm</span>
+<span class="key">
+Michael from Elkins Park</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Bryce, any idea if there's a similar box set in the works for Francois Bayle?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:36pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+oh man, would THAT be great! so much of his amazing stuff has gone oop, even the cds.... :(
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:36pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+man, the more i think about it..... he really should get The Treatment already
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:40pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Hello Bryce. Great show!!!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:40pm</span>
+<span class="key">
+Ike</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Computer programmers and Internet commenters do it by putting the 1 into the 0.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:41pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+JOE!!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:41pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+sorry i'm yelling
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:43pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+It's ok. I wasn't that close to computer. Oh and Ike. Electricians do it with a spark
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:43pm</span>
+<span class="key">
+Hubba</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Does anyone know a foley artist?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:45pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Mysterious disease killing goldfish in the ponds. No koi just the goldfish. Weird?
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:49pm</span>
+<span class="key">
+still b/p</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Question the koi again. Really grill 'em. Mmmm.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:51pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Would be really exspensive meal, but might be tasty.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:51pm</span>
+<span class="key">
+Old Guy</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Koi, gevalt.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:52pm</span>
+<span class="key">
+Andrew Marvell</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+I call my latest poem, &quot;To His Koi Mistress.&quot;
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:52pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Oldest goldfish ever was 43. Ours are about 20.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:54pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+This sounds nice bryce. Alot different from the albums I have.
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:56pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+yeah, this track is even different from the others on this record, but one of my fave of his....
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:57pm</span>
+<span class="key">
+bryce</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+see ya, all...
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:57pm</span>
+<span class="key">
+Thin Lizzy</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+The koi are back but drowned,<br />
+The koi are back but drowned...<br />
+The koi are back<br />
+The koi are back...
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 2:57pm</span>
+<span class="key">
+Joe Voltage</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Bye
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 3:02pm</span>
+<span class="key">
+Minnesota Jeff</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+Check out my Animated Gif for Kurts show up next on the comments board! In honor of him going to the MAX for his new Friday slot!
+</p>
+<p class="boxed content" align="left">
+<span class="rightmost">Fri. 6/17/11 3:03pm</span>
+<span class="key">
+van</span>:
+<br>
+<span style="line-height:25%;"><br></span>
+echo...echo...echo...
+</p>
+<a name="lastcomment"> </a>
+<table border=1 align="center" class="playlistcommentsform everything"
+>
+<tr><th colspan=2 align="center">Post your comment to this playlist!</th></tr>
+<tr><td>
+<table border=0 align="center" class="playlistcommentsform everything" width="100%">
+<tr>
+<td align="right">
+<form action="/playlistcommentpost.php" method="post">
+Your name:</td>
+<td><input type="text" name="a" id="pc_name" size="25" maxlength="50"></td>
+</tr>
+<tr>
+<td align="right">Email address (optional,<br>only seen by WFMU DJ):</td>
+<td><input type="text" name="b" id="pc_email" size="25" maxlength="50"></td>
+</tr>
+<tr>
+<td align="center" colspan=2>Your comment: (No HTML, please)</td>
+</tr>
+<tr>
+<td colspan=2 align="center"><textarea name="c" rows="3" cols="60" wrap="soft"></textarea></td>
+</tr>
+</table>
+</td></tr>
+<tr><td colspan=2 align="center"><input type="submit" name="d" value="Preview your comment!">
+<input type="hidden" name="e" value="0066063404665d645161">
+</td></tr>
+</form>
+</table>
+<script type="text/javascript">
+if (isNaN($.cookie('kdb_pc_name')))
+$('#pc_name').val($.cookie('kdb_pc_name'));
+if (isNaN($.cookie('kdb_pc_email')))
+$('#pc_email').val($.cookie('kdb_pc_email'));
+</script>
+</div>
+<div class="everything" align="center">
+<br>
+<font size="-1">
+<a href="/playlists/shows/40669">&lt;-- Previous playlist</a> |
+Back to <a href="/playlists/BK2011">
+Bryce playlists</a> |
+</font>
+<br><br>
+<font size="-1">
+<p>
+<span class="rsslinkstitle">RSS feeds<span class="rsslinksprogramtitle"> for Bryce's show</span>:</span>
+<span class="rsslinkslinks">
+<a href="/playlistfeed/BK.xml"><img src="/Gfx/feed-icon-14x14.png" border=0 height=14 width=14 alt="RSS">Playlists&nbsp;feed</a> | <a href="/archivefeed/mp3/BK.xml"><img src="/Gfx/feed-icon-14x14.png" border=0 height=14 width=14 alt="RSS">MP3&nbsp;archives&nbsp;feed</a>
+</span>
+</p>
+|
+<a href="/email.php?id=42&amp;return=http%3A%2F%2Fwww.wfmu.org%2Fplaylists%2Fshows%2F40757">E-mail Bryce</a>
+| <a href="/playlists">Other WFMU Playlists</a> |
+<a href="/artistkeywords.php/BK">All artists played by Bryce</a> |
+</font>
+<hr>
+<font size="1">
+<a href="/audiostream.shtml" onmouseover="window.status='Broadcasting live on the net!'; return true" onmouseout='window.status="";'>Listen&nbsp;on&nbsp;the&nbsp;Internet</a>
+&nbsp;|&nbsp;
+<a href="/reachout.html" onmouseover="window.status='Email lists for the entire staff, pledging and much more'; return true" onmouseout='window.status="";'>Contact&nbsp;Us</a>
+&nbsp;|&nbsp;
+<a href="/onair.html" onmouseover="window.status='The meat of the matter'; return true" onmouseout='window.status="";'>Music&nbsp;&amp;&nbsp;Programs</a>
+&nbsp;|&nbsp;
+<a href="/" onmouseover="window.status='WFMU Home Page'; return true" onmouseout='window.status="";'>WFMU&nbsp;Home&nbsp;Page</a>
+&nbsp;|&nbsp;
+<a href="http://blog.wfmu.org/" onmouseover="window.status='WFMU\'s Beware of the Blog'; return true" onmouseout='window.status="";'>Blog</a>
+&nbsp;|&nbsp;
+<a href="/marathon/" onmouseover="window.status='Support freeform radio'; return true" onmouseout='window.status="";'>Support&nbsp;Us</a>
+&nbsp;|&nbsp;
+<a href="/faq.html" onmouseover="window.status='You got questions? We got answers!'; return true" onmouseout='window.status="";'>FAQ</a>
+<BR><BR>
+Live Audio Streams:
+<a href="/flash/live/livetest.html" onclick="javascript:window.open(this.href,'wfmuflashplayerwindow','width=448,height=161,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no'); return false;">Flash (beta)</a>&nbsp; |&nbsp; <a href="/wfmu.pls">128k MP3</a>&nbsp; |&nbsp; <a href="/wfmu32.pls">32k MP3</a>&nbsp; |&nbsp; <a href="/wfmu.ram">20k Real</a>&nbsp; |&nbsp; <a href="/wfmu.asx">20k Windows</a>
+</font>
+<hr>
+</div>
+<div class="everything" align="right">
+<h6>(C) 2011 WFMU.
+Generated by <strong><a href="http://kenzodb.com" style="text-decoration:none" target="_blank">KenzoDB</a></strong>, (C) 2000-2011 <a href="/email.php?id=28&amp;return=" target="_blank">Ken Garson</a>
+</h6>
+<!--/font-->
+</div>
+<!-- async google analytics code MA 2011-02-25 -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-446006-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
