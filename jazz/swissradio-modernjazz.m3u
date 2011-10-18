@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,[Init7-Master] Swiss Internet Radio - swissradio.ch Modern Jazz
+http://stream2140.init7.net:80
+#EXTINF:-1,[Init7-Relay] Swiss Internet Radio - swissradio.ch Modern Jazz
+http://stream3140.init7.net:80
+#EXTINF:-1,[Init7-Icecast] Swiss Internet Radio - swissradio.ch Modern Jazz
+http://77.109.141.148/modern_jazz.aac.m3u
