@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1,substream - das freie Webradio (proudly hosted by mur.at)
-http://stream.mur.at:8000/substream-128kbit.ogg
-#EXTINF:-1,substream - das freie Webradio
-http://88.198.16.39:8000/substream-128kbit.ogg
+http://stream.mur.at:8000/substream-128kbit.mp3
