@@ -1,5 +1,10 @@
 [playlist]
-numberofentries=1
+numberofentries=4
 Title1=WFMU's Rock & Soul Ichiban
-File1=http://mp3stream.wfmu.org:443
-
+File1=http://stream0.wfmu.org/ichiban
+Title2=WFMU's Rock & Soul Ichiban
+File2=http://stream1.wfmu.org/ichiban
+Title3=WFMU's Rock & Soul Ichiban
+File3=http://stream2.wfmu.org/ichiban
+Title4=WFMU's Rock & Soul Ichiban
+File4=http://stream3.wfmu.org/ichiban
