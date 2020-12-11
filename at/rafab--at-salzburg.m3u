@@ -1,4 +1,1 @@
-#EXTM3U
-#EXTINF:-131,live from radiofabrik 107.5 MHz
-http://master.radiofabrik.at:8000/rf_low.mp3
-http://master.radiofabrik.at:8000/rf_low.ogg
+https://stream.radiofabrik.at/rf_low.mp3
