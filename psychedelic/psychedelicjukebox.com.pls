@@ -1,3 +1,3 @@
 [playlist]
 NumberOfEntries=1
-File1=http://174.122.26.34:8140/
+File1=http://eagle.streemlion.com:4157/stream?icy=http
